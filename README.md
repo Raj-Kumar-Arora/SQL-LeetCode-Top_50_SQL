@@ -477,6 +477,7 @@ SOLUTION:-
 44. Fix Names in a Table
 
 ![image](https://github.com/user-attachments/assets/cf23682d-3441-48be-9808-43a718bbf154)
+
 ![image](https://github.com/user-attachments/assets/b57ecac5-b822-480a-9ad2-1fb7a42ce066)
 
 SOLUTION:-
