@@ -323,46 +323,74 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/cc248a8f-da5e-4c31-a2e0-677205e3078b)
 
 -------------------------------------------------------------
-30. 
+**30. The Number of Employees Which Report to Each Employee**
 
+![image](https://github.com/user-attachments/assets/727e20e7-077d-4a48-bd7c-a47b19872444)
+![image](https://github.com/user-attachments/assets/183ec538-22f0-40e5-86e3-f8a420323e6e)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/ec4b2318-234f-44c7-8db2-025fb715af13)
 
 -------------------------------------------------------------
-31. 
+31. Primary Department for Each Employee
 
+![image](https://github.com/user-attachments/assets/11b71302-7390-49b0-a4f1-57909c99af24)
+![image](https://github.com/user-attachments/assets/30ba32a6-0564-4c9c-bda4-6e6eda29a3b2)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/fe4925c3-4bdf-4b43-b57e-90e2ee6286de)
 
 -------------------------------------------------------------
-32. 
+32. Triangle Judgement
 
+![image](https://github.com/user-attachments/assets/0934ca74-c439-494b-ac5f-a89f041c9b1c)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/63aec3d8-9642-4646-8868-83727481eab6)
 
 -------------------------------------------------------------
-33. 
+33. Consecutive Numbers
 
+![image](https://github.com/user-attachments/assets/26aa1b57-60dc-4006-beca-e40c743e51ed)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/26b15cd5-e3ed-4b19-ad08-9cf7171e76c5)
 
 -------------------------------------------------------------
-34. 
+**34. Product Price at a Given Date**
 
+
+![image](https://github.com/user-attachments/assets/72ea0517-ca31-45ea-bf65-f358d9d5719e)
+
+![image](https://github.com/user-attachments/assets/234c036e-7ef7-4ed8-aca4-a4625a2ade14)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/f1f2c216-8527-4f45-9c97-5fcf96684dd1)
 
 -------------------------------------------------------------
-35. 
+**35. Last Person to Fit in the Bus**
 
+![image](https://github.com/user-attachments/assets/c6a22ac2-a3a2-4b0b-972f-d48be378c838)
+![image](https://github.com/user-attachments/assets/1e8958d1-32e5-4a95-bde8-980a28ed1b19)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/43999a3c-6a04-4bf8-8878-7db8e4f6c21e)
 
 -------------------------------------------------------------
-36. 
+36. Count Salary Categories
 
+![image](https://github.com/user-attachments/assets/7a4c1d90-682f-4e3b-b5d5-7969196955c4)
+![image](https://github.com/user-attachments/assets/a19ceb93-1db3-43ba-bdf4-62c2a7b8d96b)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/3d1f4e4e-fed4-4e20-8ad2-888665381c20)
 
 -------------------------------------------------------------
 37. 
