@@ -393,46 +393,85 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/3d1f4e4e-fed4-4e20-8ad2-888665381c20)
 
 -------------------------------------------------------------
-37. 
+37. Employees Whose Manager Left the Company
 
+![image](https://github.com/user-attachments/assets/bc729910-f63a-4fe8-aff4-34baf5e9cdc4)
+![image](https://github.com/user-attachments/assets/307f93b9-cb73-4910-9bb1-656e931093fc)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/649cb03c-8b8c-4379-9f3e-5b743c8fc1e7)
 
 -------------------------------------------------------------
-38. 
+**38.  Exchange Seats**
 
+![image](https://github.com/user-attachments/assets/72b0e3b1-084d-46f8-833b-18e73102b8b4)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/eb71ebc8-de88-463f-ad00-b3f10c704363)
 
 -------------------------------------------------------------
-39. 
+**39. Movie Rating**
 
+![image](https://github.com/user-attachments/assets/bc022640-a465-4f02-a881-56fc59806a08)
+
+![image](https://github.com/user-attachments/assets/696a79e2-a27c-416b-9855-d4891b5a687b)
+![image](https://github.com/user-attachments/assets/3bdb54e7-e167-4b8c-8bfa-5784f209fb2c)
+
+![image](https://github.com/user-attachments/assets/f2b1bcd0-48f4-4a15-a799-d0a22a663df6)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/f48cf2a5-1f35-4da2-93bf-2785ae087413)
 
 -------------------------------------------------------------
-40. 
+**40. Restaurant Growth**
 
+![image](https://github.com/user-attachments/assets/0cc981cb-7380-4933-9577-635cedc2a97f)
+
+
+![image](https://github.com/user-attachments/assets/ba87bb43-9bb9-4252-87e3-b3e96dc87361)
+![image](https://github.com/user-attachments/assets/616b4010-721d-44ec-bb85-53193d9622b0)
+
+![image](https://github.com/user-attachments/assets/afbacbe5-308c-4072-bc16-096c0887f1f2)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/2ca0f966-e2e4-44ca-a7d9-d1a1214938e5)
 
 -------------------------------------------------------------
-41. 
+41. Friend Requests II: Who Has the Most Friends
 
+![image](https://github.com/user-attachments/assets/da4a05fe-3805-49c7-b052-6bd68bf682a5)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/28b8540a-e277-4c9b-8f3b-1c84070dd9b6)
 
 -------------------------------------------------------------
-42. 
+**42. Investments in 2016**
 
+![image](https://github.com/user-attachments/assets/5fc27793-1946-472f-9045-e75c9a92c3bb)
+![image](https://github.com/user-attachments/assets/0ebb93d6-46eb-4e46-b644-6b56a11e9993)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/2098e70b-c8b1-44ae-81cd-767c845f0d56)
 
 -------------------------------------------------------------
-43. 
+43. Department Top Three Salaries
 
+![image](https://github.com/user-attachments/assets/3fa3e586-e066-44bb-849a-8f09b9bcb0c4)
+
+![image](https://github.com/user-attachments/assets/ea1bfb87-8070-49a3-9d24-eda03ae1be40)
+ ![image](https://github.com/user-attachments/assets/e08c4022-839f-4632-a7d6-f38d01f9112e)
+
+![image](https://github.com/user-attachments/assets/f620cb26-723e-4331-b12c-54798edb021f)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/977d0685-e4b4-4c96-ad29-862b643c843d)
 
 -------------------------------------------------------------
 44. 
