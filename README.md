@@ -96,25 +96,44 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/054adc55-ba8a-4a40-ae73-69f4b008ca2a)
 
 SOLUTION:-
+
 ![image](https://github.com/user-attachments/assets/02567cc4-288b-46d8-99f1-5aa76e7a3fa3)
 
 -------------------------------------------------------------
-10. 
+10. Average Time of Process per Machine
 
+![image](https://github.com/user-attachments/assets/63505ede-e9bf-4db0-93af-1fd18b75a8c7)
+![image](https://github.com/user-attachments/assets/f0ae6a7f-f72c-4212-8ee2-add4ff5b1253)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/95d8ebd7-4cf3-4930-854b-dfba3785e1f0)
 
 -------------------------------------------------------------
-11. 
+11. Employee Bonus
 
+![image](https://github.com/user-attachments/assets/51356fbb-913d-4eba-9864-2be798af47fb)
+![image](https://github.com/user-attachments/assets/f2cbc04f-0b58-413f-9c4d-50e7a5c729d1)
+![image](https://github.com/user-attachments/assets/b84e4ebb-897e-4331-959c-786a59415325)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/6f40e959-d704-4694-b8df-326c38235b39)
 
 -------------------------------------------------------------
-12. 
+12. Students and Examinations
 
+![image](https://github.com/user-attachments/assets/d161a692-ba53-4a9f-8462-4b1f7318c113)
+
+![image](https://github.com/user-attachments/assets/cb703b1c-4b31-4f28-b66f-cace1a0ade35)
+ ![image](https://github.com/user-attachments/assets/8f5b610b-4d60-4648-81d5-ea08121efaaa)
+  ![image](https://github.com/user-attachments/assets/97bcad20-d207-4701-ba60-02ebc0e8fde0)
+
+![image](https://github.com/user-attachments/assets/f477825e-0348-4bc6-bcf8-92b30ebe4c23)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/49c82316-915d-4303-afe5-e421680350cd)
 
 -------------------------------------------------------------
 13. 
