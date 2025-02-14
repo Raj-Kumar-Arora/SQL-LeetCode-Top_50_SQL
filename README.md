@@ -12,4 +12,13 @@ SOLUTION:-
 SELECT product_id from Products
 where low_fats = 'Y' and recyclable = 'Y'
 
+-------------------------------------------------------------
+2. Find Customer Referee
 
+![image](https://github.com/user-attachments/assets/bc489a96-6dcf-4765-b5bd-fd4bb9310a6b)
+![image](https://github.com/user-attachments/assets/006051b9-447e-4538-aae7-f7fb5927c115)
+![image](https://github.com/user-attachments/assets/30dc53a8-0728-4df5-af15-ce5324d628e2)
+
+SOLUTION:-
+select name from Customer 
+where referee_id IS NULL or referee_id != 2
