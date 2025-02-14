@@ -15,12 +15,11 @@ where low_fats = 'Y' and recyclable = 'Y'
 -------------------------------------------------------------
 2. Find Customer Referee
 
-![image](https://github.com/user-attachments/assets/006051b9-447e-4538-aae7-f7fb5927c115)
-![image](https://github.com/user-attachments/assets/30dc53a8-0728-4df5-af15-ce5324d628e2)
+![image](https://github.com/user-attachments/assets/d8378a17-7679-43df-8be3-a87f6b847e8b)
+![image](https://github.com/user-attachments/assets/b68e8a6f-434b-4339-94e4-1d636b48894f)
 
 SOLUTION:-
-select name from Customer 
-where referee_id **IS NULL** or referee_id != 2
+![image](https://github.com/user-attachments/assets/71b9337a-be2d-476b-9bf1-aca9cf2af5a7)
 
 -------------------------------------------------------------
 3. Big Countries
