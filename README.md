@@ -87,7 +87,8 @@ SOLUTION:-
 8. **Customer Who Visited but Did Not Make Any Transactions**
 
 ![image](https://github.com/user-attachments/assets/b74dad5d-8b06-42a5-ab9b-1c8b799033ba)
-![image](https://github.com/user-attachments/assets/9b086549-85ee-4a9d-8e5b-2d3a8d0e9875)
+![image](https://github.com/user-attachments/assets/56e77e72-6346-4309-a956-10527b742dca)
+![image](https://github.com/user-attachments/assets/593b9fdb-37e7-42aa-b051-5177b44a7355)
 ![image](https://github.com/user-attachments/assets/76960bb4-230d-4de8-84a9-500f2c9c0411)
 
 SOLUTION:-
