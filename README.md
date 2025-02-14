@@ -474,44 +474,81 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/977d0685-e4b4-4c96-ad29-862b643c843d)
 
 -------------------------------------------------------------
-44. 
+44. Fix Names in a Table
 
+![image](https://github.com/user-attachments/assets/cf23682d-3441-48be-9808-43a718bbf154)
+![image](https://github.com/user-attachments/assets/b57ecac5-b822-480a-9ad2-1fb7a42ce066)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/862c73fe-de3a-46c3-b677-0988546d3057)
 
 -------------------------------------------------------------
-45. 
+45. Patients With a Condition
 
+![image](https://github.com/user-attachments/assets/e5be8844-7c28-491d-b883-cf175896dddc)
+
+![image](https://github.com/user-attachments/assets/2bbc49f6-3b04-4356-910f-199833f25845)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/05b0bdff-0dc2-49d9-949a-9af6b0fec921)
 
 -------------------------------------------------------------
-46. 
+**46. Delete Duplicate Emails**
 
+![image](https://github.com/user-attachments/assets/fca69d4e-6700-4b40-856f-b14f3f29fb0f)
+
+![image](https://github.com/user-attachments/assets/ed0b74ac-5336-4e02-86b1-8229be7fe19a)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/7842856e-bb6e-4da4-b223-589eb8bd6593)
 
 -------------------------------------------------------------
-47. 
+**47. Second Highest Salary**
 
+![image](https://github.com/user-attachments/assets/36da1526-aa05-4486-a56a-32cb6e03d818)
+
+![image](https://github.com/user-attachments/assets/75af078b-ced1-4837-8ac1-9b7cc3af1848)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/2d81f2f8-c95d-45cb-a5d2-ada42a0f01b5)
 
 -------------------------------------------------------------
-48. 
+48. Group Sold Products By The Date
 
+![image](https://github.com/user-attachments/assets/e5c97308-d55e-49d0-ae74-656952036933)
+
+![image](https://github.com/user-attachments/assets/cb27b2dc-376e-4e96-b586-3bdb6cc1f493)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/d207fc80-024d-455b-a9c6-48d768aeae22)
 
 -------------------------------------------------------------
-49. 
+49. List the Products Ordered in a Period
 
+![image](https://github.com/user-attachments/assets/7b8b6101-74b3-4dac-8b42-3e665ab1ffff)
+
+![image](https://github.com/user-attachments/assets/aa17feb6-f032-4d94-9b52-c3c73260ce2e)
+![image](https://github.com/user-attachments/assets/4c6428d0-58ab-4c2e-b665-9af9bc82483e)
+
+![image](https://github.com/user-attachments/assets/f63436dc-bff0-43e9-b2c4-714dd7ff26e3)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/e7256fe1-ffb4-4fa5-8765-2f0eb07a713e)
 
 -------------------------------------------------------------
-50. 
+**50. Find Users With Valid E-Mails**
 
+![image](https://github.com/user-attachments/assets/101749d9-4ea5-461a-945a-43cd15618cec)
+![image](https://github.com/user-attachments/assets/ba1e2428-3c11-4a40-a0f6-81cb409ec873)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/75689274-c7a3-4479-bc5b-e4df50f29d89)
+
 -------------------------------------------------------------
