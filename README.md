@@ -139,6 +139,7 @@ SOLUTION:-
 **13. Managers with at Least 5 Direct Reports**
 
 ![image](https://github.com/user-attachments/assets/90fd9558-414c-4eac-9741-f5e5f45b7f15)
+
 ![image](https://github.com/user-attachments/assets/13dd2fa5-4dfc-40da-8031-a2f35f69e2de)
 
 SOLUTION:-
