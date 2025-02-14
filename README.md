@@ -28,11 +28,9 @@ where referee_id IS NULL or referee_id != 2
 
 ![image](https://github.com/user-attachments/assets/fa767a03-0dfb-4c91-b8de-ce859061412e)
 ![image](https://github.com/user-attachments/assets/f0f88af6-774e-44ae-9210-67bbb4f95509)
-[Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/eb5a4d2b-24b7-401b-b487-79a1ac4a4083)
 
-SOLUTION:-
-select name, population, area from World
-where area >= 3000000  or population >= 25000000
+
 -------------------------------------------------------------
 4. 
 
