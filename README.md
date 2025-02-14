@@ -21,7 +21,7 @@ where low_fats = 'Y' and recyclable = 'Y'
 
 SOLUTION:-
 select name from Customer 
-where referee_id IS NULL or referee_id != 2
+where referee_id **IS NULL** or referee_id != 2
 
 -------------------------------------------------------------
 3. Big Countries
@@ -30,18 +30,32 @@ where referee_id IS NULL or referee_id != 2
 ![image](https://github.com/user-attachments/assets/f0f88af6-774e-44ae-9210-67bbb4f95509)
 ![image](https://github.com/user-attachments/assets/eb5a4d2b-24b7-401b-b487-79a1ac4a4083)
 
+SOLUTION:-
+select name, population, area from World
+where area >= 3000000  or population >= 25000000
 
--------------------------------------------------------------
-4. 
+--------------------------------------------------------------
+4. Article Views I
 
+![image](https://github.com/user-attachments/assets/38407581-ab20-4fd8-92aa-fb77280032e9)
+![image](https://github.com/user-attachments/assets/6f01b935-c250-43e0-8f4f-b53524c648a6)
+![image](https://github.com/user-attachments/assets/5385dd24-f14c-4754-a5a5-80970d8d3510)
 
 SOLUTION:-
+select **DISTINCT** author_id as id from Views 
+where viewer_id = author_id
+order by author_id asc
 
 -------------------------------------------------------------
-5. 
+5. Invalid Tweets
 
+![image](https://github.com/user-attachments/assets/324ac3c8-7708-4757-960d-b3613e6e8beb)
+![image](https://github.com/user-attachments/assets/b7db07b6-83f2-49ac-a5e3-e7739933b371)
+![image](https://github.com/user-attachments/assets/8939cf99-5879-4a04-8c3a-3c5d89859fd9)
 
 SOLUTION:-
+select tweet_id from Tweets
+where **LEN**(content) > 15
 
 -------------------------------------------------------------
 6. 
