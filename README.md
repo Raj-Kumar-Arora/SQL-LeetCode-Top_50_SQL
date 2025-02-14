@@ -251,46 +251,76 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/710e62b3-2a8f-4292-a0ab-828070e7ab9c)
 
 -------------------------------------------------------------
-23. 
+23. Number of Unique Subjects Taught by Each Teacher
 
+![image](https://github.com/user-attachments/assets/72b3c765-71f2-4f53-b226-505573926d43)
+
+![image](https://github.com/user-attachments/assets/6c188889-dfb4-412e-8b2c-dd9616dce259)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/7e90c3fd-4efb-4e1e-a5c1-0aecc7fb1c35)
 
 -------------------------------------------------------------
-24. 
+**24. User Activity for the Past 30 Days I**
 
+![image](https://github.com/user-attachments/assets/1110cac8-6353-45d4-8fd3-79bdac5804b2)
+![image](https://github.com/user-attachments/assets/52838ed7-cdd3-4258-a03e-16b8f820327a)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/f8ab6adb-cf05-4c1c-9128-1f105ccce0dc)
 
 -------------------------------------------------------------
-25. 
+**25. Product Sales Analysis III**
 
+![image](https://github.com/user-attachments/assets/ed39d398-3aad-4bd7-b028-d3acf435da8d)
+
+****![image](https://github.com/user-attachments/assets/b04a1c7e-d019-4e30-8800-6d9e3170db9f)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/3546fb62-acf1-44af-b8ad-3488c81c52de)
 
 -------------------------------------------------------------
-26. 
+26. Classes More Than 5 Students
 
+![image](https://github.com/user-attachments/assets/6a36cc76-b393-4e1d-b3d0-5b49ea5f06ed)
+![image](https://github.com/user-attachments/assets/fbd3bdec-68a0-490f-9034-014cdf9835e1)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/1fa5381f-d471-4cf9-84b3-8aab23c37743)
 
 -------------------------------------------------------------
-27. 
+27. Find Followers Count
 
+![image](https://github.com/user-attachments/assets/623fc88b-b101-4294-9b3b-d4cd033aa678)
+![image](https://github.com/user-attachments/assets/212cfe20-b47f-4e88-a46e-10e32632e33c)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/939472a8-96ca-4352-a311-9be75ae71b12)
 
 -------------------------------------------------------------
-28. 
+28. Biggest Single Number
 
+![image](https://github.com/user-attachments/assets/a3e46c15-a8f0-43f9-a209-f3618caddb81)
+![image](https://github.com/user-attachments/assets/0e0ccb61-ccca-4167-a7b0-3bcf08590907)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/e1db93dd-ec03-43e5-ba9d-03762e3d2170)
 
 -------------------------------------------------------------
-29. 
-
+29. Customers Who Bought All Products
+    
+![image](https://github.com/user-attachments/assets/da14ed34-4357-47c0-be68-c44c23dc8036)
+![image](https://github.com/user-attachments/assets/1ba4df7d-2292-4a8a-8f9c-37c6ab531c1e)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/cc248a8f-da5e-4c31-a2e0-677205e3078b)
 
 -------------------------------------------------------------
 30. 
