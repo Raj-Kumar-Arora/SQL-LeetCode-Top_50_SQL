@@ -1,6 +1,7 @@
 # SQL-LeetCode-Top_50_SQL
 
 Reference URL - https://leetcode.com/studyplan/top-sql-50/
+
 *** ALL SOLUTIONS TESTED FOR MS SQL SERVER VARIANT ONLY. ***
 -------------------------------------------------------------
 1. Recyclable and Low Fat Products
