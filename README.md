@@ -19,6 +19,7 @@ where low_fats = 'Y' and recyclable = 'Y'
 ![image](https://github.com/user-attachments/assets/b68e8a6f-434b-4339-94e4-1d636b48894f)
 
 SOLUTION:-
+
 ![image](https://github.com/user-attachments/assets/71b9337a-be2d-476b-9bf1-aca9cf2af5a7)
 
 -------------------------------------------------------------
