@@ -159,28 +159,56 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/49105daa-f40d-4fde-b108-999e838ca46f)
 
 -------------------------------------------------------------
-15. 
+15. Not Boring Movies
 
+![image](https://github.com/user-attachments/assets/1640506a-639a-4344-a9f4-961271f44dfd)
+![image](https://github.com/user-attachments/assets/0798c338-ab76-4fa5-8c0b-583af4b6b246)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/fbfe6f8a-58c1-4b21-930f-7053ff8cf66a)
 
 -------------------------------------------------------------
-16. 
+16. Average Selling Price
 
+![image](https://github.com/user-attachments/assets/dff71ac1-47c1-4194-a4ca-f1ce3880f472)
+
+![image](https://github.com/user-attachments/assets/df351ea8-7d73-4bd5-adf0-6ba55a153fc2)
+ ![image](https://github.com/user-attachments/assets/96d3dc30-f73d-48d2-b52a-094e3d7b4b61)
+
+![image](https://github.com/user-attachments/assets/a257ba5e-6862-4ca1-be57-88ec1f450939)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/b414e2fc-2c25-4144-8da7-5842e7e0edd5)
 
 -------------------------------------------------------------
-17. 
+17. Project Employees I
 
+![image](https://github.com/user-attachments/assets/cef0910e-e073-4a77-a823-a58be7f1b040)
+
+![image](https://github.com/user-attachments/assets/c1ea7da2-c0e0-4896-8b28-5a556f3d5f42)
+![image](https://github.com/user-attachments/assets/7ca61de5-66da-4001-ace1-89353ed89ca9)
+
+![image](https://github.com/user-attachments/assets/56bf88b7-a47c-4546-8774-3f560e974711)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/eae00d05-4feb-435b-b373-18f41b109152)
 
 -------------------------------------------------------------
-18. 
+**18. Percentage of Users Attended a Contest**
 
+![image](https://github.com/user-attachments/assets/ca6122ec-5626-4d69-b4d1-3dc6ccad3886)
+
+![image](https://github.com/user-attachments/assets/80124eac-8576-4df0-854d-ad19c537e74d)
+![image](https://github.com/user-attachments/assets/55d5b1e4-400d-4ba6-88fa-f8f9a5ca5bb8)
+
+![image](https://github.com/user-attachments/assets/d3d4ac60-e9ee-4518-af6e-3c805cfecc2c)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/cba26a1e-a413-4361-8d3c-abf1a310065e)
 
 -------------------------------------------------------------
 19. 
