@@ -58,10 +58,19 @@ select tweet_id from Tweets
 where **LEN**(content) > 15
 
 -------------------------------------------------------------
-6. 
+6. Replace Employee ID With The Unique Identifier
 
+![image](https://github.com/user-attachments/assets/6081cac2-59fc-4f19-ab78-6fbedfa849a7)
+![image](https://github.com/user-attachments/assets/7575c010-472d-4888-8e6d-a9f2e6cdf1f6)
+![image](https://github.com/user-attachments/assets/1b7f4707-c805-456d-b08b-fdfe6392cd8b)
+![image](https://github.com/user-attachments/assets/a0b4203f-a83c-4d6f-8bf6-8b0d8293c5f3)
+![image](https://github.com/user-attachments/assets/9dc53056-69a4-4e09-bd87-d2679dd03b36)
 
 SOLUTION:-
+select EmployeeUNI.unique_id, Employees.name 
+from Employees 
+left join EmployeeUNI 
+on Employees.id = EmployeeUNI.id
 
 -------------------------------------------------------------
 7. 
