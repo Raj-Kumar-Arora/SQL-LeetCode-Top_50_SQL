@@ -73,10 +73,14 @@ left join EmployeeUNI
 on Employees.id = EmployeeUNI.id
 
 -------------------------------------------------------------
-7. 
-
+7. Product Sales Analysis I
+![image](https://github.com/user-attachments/assets/743dc6fa-ceac-4e8e-8035-82c3d4d4645c)
+![image](https://github.com/user-attachments/assets/0944d4d4-e1b6-41b8-91d9-f7142fb15589)
+![image](https://github.com/user-attachments/assets/fab748b2-e00c-44f8-891d-5b279e1d8f08)
+![image](https://github.com/user-attachments/assets/cb18d838-d864-4759-94cb-5c80430234df)
 
 SOLUTION:-
+![image](https://github.com/user-attachments/assets/cc789b6d-140a-4a5a-b0eb-63728c223666)
 
 -------------------------------------------------------------
 8. 
