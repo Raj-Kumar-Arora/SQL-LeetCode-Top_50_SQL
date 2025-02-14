@@ -136,16 +136,26 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/49c82316-915d-4303-afe5-e421680350cd)
 
 -------------------------------------------------------------
-13. 
+**13. Managers with at Least 5 Direct Reports**
 
+![image](https://github.com/user-attachments/assets/90fd9558-414c-4eac-9741-f5e5f45b7f15)
+![image](https://github.com/user-attachments/assets/13dd2fa5-4dfc-40da-8031-a2f35f69e2de)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/c74a6e7f-3700-4def-bd70-6e6471850dd2)
 
 -------------------------------------------------------------
-14. 
+14. Confirmation Rate
 
+![image](https://github.com/user-attachments/assets/0d888fd7-60ac-4dc4-9872-8fbfa4297fb5)
+![image](https://github.com/user-attachments/assets/8627d1ef-22c8-445b-a68b-2a1f34e3d0bf)
+![image](https://github.com/user-attachments/assets/b0a12338-bd32-46da-92b0-535ee353559a)
+![image](https://github.com/user-attachments/assets/da7ed73d-6e00-41f6-b1fd-57214e113673)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/49105daa-f40d-4fde-b108-999e838ca46f)
 
 -------------------------------------------------------------
 15. 
