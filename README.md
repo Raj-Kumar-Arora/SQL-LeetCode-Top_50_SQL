@@ -10,8 +10,8 @@ Reference URL - https://leetcode.com/studyplan/top-sql-50/
 ![image](https://github.com/user-attachments/assets/fea4f3b3-f125-4cd5-957c-fd68cdcd153c)
 
 SOLUTION:-
-SELECT product_id from Products
-where low_fats = 'Y' and recyclable = 'Y'
+
+![image](https://github.com/user-attachments/assets/65f3257f-b961-4cf0-8ff6-21e7b0cd5667)
 
 -------------------------------------------------------------
 2. Find Customer Referee
@@ -30,8 +30,8 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/eb5a4d2b-24b7-401b-b487-79a1ac4a4083)
 
 SOLUTION:-
-select name, population, area from World
-where area >= 3000000  or population >= 25000000
+
+![image](https://github.com/user-attachments/assets/10254cc0-e515-4456-96fa-b88d5eb11424)
 
 --------------------------------------------------------------
 4. Article Views I
@@ -40,9 +40,8 @@ where area >= 3000000  or population >= 25000000
 ![image](https://github.com/user-attachments/assets/5385dd24-f14c-4754-a5a5-80970d8d3510)
 
 SOLUTION:-
-select **DISTINCT** author_id as id from Views 
-where viewer_id = author_id
-order by author_id asc
+
+![image](https://github.com/user-attachments/assets/70b46f18-e360-4d0e-9a70-82286d4f4233)
 
 -------------------------------------------------------------
 5. Invalid Tweets
@@ -51,8 +50,8 @@ order by author_id asc
 ![image](https://github.com/user-attachments/assets/8939cf99-5879-4a04-8c3a-3c5d89859fd9)
 
 SOLUTION:-
-select tweet_id from Tweets
-where **LEN**(content) > 15
+
+![image](https://github.com/user-attachments/assets/b8ffe340-739f-411f-9826-1b9d352070e6)
 
 -------------------------------------------------------------
 6. Replace Employee ID With The Unique Identifier
