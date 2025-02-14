@@ -64,7 +64,6 @@ where **LEN**(content) > 15
 ![image](https://github.com/user-attachments/assets/7575c010-472d-4888-8e6d-a9f2e6cdf1f6)
 ![image](https://github.com/user-attachments/assets/1b7f4707-c805-456d-b08b-fdfe6392cd8b)
 ![image](https://github.com/user-attachments/assets/a0b4203f-a83c-4d6f-8bf6-8b0d8293c5f3)
-![image](https://github.com/user-attachments/assets/9dc53056-69a4-4e09-bd87-d2679dd03b36)
 
 SOLUTION:-
 select EmployeeUNI.unique_id, Employees.name 
@@ -85,10 +84,14 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/cc789b6d-140a-4a5a-b0eb-63728c223666)
 
 -------------------------------------------------------------
-8. 
+8. **Customer Who Visited but Did Not Make Any Transactions**
 
+![image](https://github.com/user-attachments/assets/b74dad5d-8b06-42a5-ab9b-1c8b799033ba)
+![image](https://github.com/user-attachments/assets/9b086549-85ee-4a9d-8e5b-2d3a8d0e9875)
+![image](https://github.com/user-attachments/assets/76960bb4-230d-4de8-84a9-500f2c9c0411)
 
 SOLUTION:-
+![image](https://github.com/user-attachments/assets/63f2e861-1bab-4cb5-b074-6b55565d99c9)
 
 -------------------------------------------------------------
 9. 
