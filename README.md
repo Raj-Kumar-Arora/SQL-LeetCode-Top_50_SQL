@@ -121,7 +121,7 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/6f40e959-d704-4694-b8df-326c38235b39)
 
 -------------------------------------------------------------
-12. Students and Examinations
+**12. Students and Examinations**
 
 ![image](https://github.com/user-attachments/assets/d161a692-ba53-4a9f-8462-4b1f7318c113)
 
@@ -211,28 +211,44 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/cba26a1e-a413-4361-8d3c-abf1a310065e)
 
 -------------------------------------------------------------
-19. 
+**19. Queries Quality and Percentage**
 
+![image](https://github.com/user-attachments/assets/3f054a30-1016-4779-9c95-162aa53cc850)
+![image](https://github.com/user-attachments/assets/68cf23c2-5e68-4e06-b499-7818fe90faaf)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/7276f065-d300-494d-93ee-f75da680003c)
 
 -------------------------------------------------------------
-20. 
+20. Monthly Transactions I
 
+![image](https://github.com/user-attachments/assets/0586a0dc-7d00-41bb-9356-470e397937e4)
+![image](https://github.com/user-attachments/assets/9acb111a-398f-4df5-b327-0fbed98cf089)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/7a5143ab-d049-42b3-90e5-7e089e1874ac)
 
 -------------------------------------------------------------
-21. 
+21. Immediate Food Delivery II
 
+![image](https://github.com/user-attachments/assets/ba672f41-0ff9-4c5c-ab08-85585755cad5)
+![image](https://github.com/user-attachments/assets/67216490-ede7-42b9-8c99-dcee71dcc21a)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/4a84e742-b81a-4d47-91af-4be7bf404b75)
 
 -------------------------------------------------------------
-22. 
-
+22. Game Play Analysis IV
+    
+![image](https://github.com/user-attachments/assets/9caac92e-f862-44e4-b61e-97be65bead47)
+![image](https://github.com/user-attachments/assets/64d605a5-e14d-4bce-a76f-22a28ea5fedd)
 
 SOLUTION:-
+
+![image](https://github.com/user-attachments/assets/710e62b3-2a8f-4292-a0ab-828070e7ab9c)
 
 -------------------------------------------------------------
 23. 
