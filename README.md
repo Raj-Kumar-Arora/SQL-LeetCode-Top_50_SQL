@@ -57,11 +57,11 @@ where **LEN**(content) > 15
 6. Replace Employee ID With The Unique Identifier
 
 ![image](https://github.com/user-attachments/assets/3b84f313-dc5e-463e-9da9-d5acc8ca3e8c)
-![image](https://github.com/user-attachments/assets/5b1fe3a1-ab72-4a69-94cc-a2434b1bcb21)
-![image](https://github.com/user-attachments/assets/787b7433-224c-4299-a3c7-c6426328ff97)
+![image](https://github.com/user-attachments/assets/aaa7624b-30bb-4155-9511-18ba36d1cdc7)
 ![image](https://github.com/user-attachments/assets/f471a612-b037-44e1-b61e-6636eae968af)
 
 SOLUTION:-
+
 ![image](https://github.com/user-attachments/assets/ed45ca6d-b918-4ab1-8de9-aaf923adb948)
 
 -------------------------------------------------------------
