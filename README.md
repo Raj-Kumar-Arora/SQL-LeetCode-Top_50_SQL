@@ -86,13 +86,17 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/76960bb4-230d-4de8-84a9-500f2c9c0411)
 
 SOLUTION:-
+
 ![image](https://github.com/user-attachments/assets/63f2e861-1bab-4cb5-b074-6b55565d99c9)
 
 -------------------------------------------------------------
-9. 
+9. Rising Temperature
 
+![image](https://github.com/user-attachments/assets/a15838d3-16fd-4bcf-86a5-094a4a85f48b)
+![image](https://github.com/user-attachments/assets/054adc55-ba8a-4a40-ae73-69f4b008ca2a)
 
 SOLUTION:-
+![image](https://github.com/user-attachments/assets/02567cc4-288b-46d8-99f1-5aa76e7a3fa3)
 
 -------------------------------------------------------------
 10. 
