@@ -87,7 +87,7 @@ SOLUTION:-
 
 SOLUTION:-
 
-![image](https://github.com/user-attachments/assets/63f2e861-1bab-4cb5-b074-6b55565d99c9)
+![image](https://github.com/user-attachments/assets/1d26eae8-b3f2-4f1e-aadd-36291fba9137)
 
 -------------------------------------------------------------
 9. Rising Temperature
