@@ -471,7 +471,7 @@ SOLUTION:-
 
 SOLUTION:-
 
-![image](https://github.com/user-attachments/assets/977d0685-e4b4-4c96-ad29-862b643c843d)
+![image](https://github.com/user-attachments/assets/4a9284bb-52a6-416a-9abc-330103a826ee)
 
 -------------------------------------------------------------
 44. Fix Names in a Table
