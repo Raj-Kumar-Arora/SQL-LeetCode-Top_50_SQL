@@ -559,7 +559,7 @@ SOLUTION:-
 ![image](https://github.com/user-attachments/assets/7842856e-bb6e-4da4-b223-589eb8bd6593)
 
 -------------------------------------------------------------
-**47. Second Highest Salary**
+##**47. Second Highest Salary**
 
 ![image](https://github.com/user-attachments/assets/36da1526-aa05-4486-a56a-32cb6e03d818)
 
