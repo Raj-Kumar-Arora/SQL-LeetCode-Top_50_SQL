@@ -569,6 +569,8 @@ SOLUTION:-
 
 ![image](https://github.com/user-attachments/assets/2d81f2f8-c95d-45cb-a5d2-ada42a0f01b5)
 
+<img width="799" height="422" alt="image" src="https://github.com/user-attachments/assets/391d7c5e-147d-485d-839b-67a80b0b75ed" />
+
 -------------------------------------------------------------
 48. Group Sold Products By The Date
 
